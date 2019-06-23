@@ -1,10 +1,14 @@
 /*h1 {
   font-size: 100px;
 }*/
-/*.presentation {
-  background-image:url()
-}*/
 
+.fullname {
+  text-align: center;
+}
+
+.presentation {
+  background-color: ;
+}
 
 ul {
   list-style-type: none;
@@ -35,4 +39,8 @@ li a:hover {
 
 .active {
   background-color: #4CAF50;
+}
+
+footer {
+  margin-top: 0%;
 }
